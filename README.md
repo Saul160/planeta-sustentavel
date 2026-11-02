@@ -28,4 +28,4 @@ Também foi utilizada a propriedade flex-direction para adaptar a galeria em tel
 
 Uso de IA
 
-Foi utilizada IA generativa como um grande apoio para poder corrigir os erros e também criar partes novas nas paginas para poder melhorar o codigo em geral.
+Foi utilizada IA generativa como um grande apoio para poder corrigir os erros e também criar partes novas nas paginas para poder melhorar o codigo em geral, e tambem guiou como colocar a pagina no github e com as imagens funcionando.
